@@ -8,3 +8,4 @@
 #### More information [BMW Resmi Sitesi](https://www.bmw.com.tr)
 > [!Note]
 > Bu yazı resmi kuruma ait değildir.
+`#0969DA`
