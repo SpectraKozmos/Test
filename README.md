@@ -8,4 +8,3 @@
 #### More information [BMW Resmi Sitesi](https://www.bmw.com.tr)
 > [!Note]
 > Bu yazı resmi kuruma ait değildir.
-- The background color is `#ffffff` for light mode and `rgb(9, 105, 218)` for dark mode.
